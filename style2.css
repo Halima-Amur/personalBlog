@@ -1,0 +1,33 @@
+
+.footer-content1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;   
+}
+.footer-content1 h3 {
+    color: grey;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.social-media{
+   justify-items: normal;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: auto;
+}
+.twitter img{
+    width: 50px;
+    height: 50px;
+}
+.linkdin img{
+    width: 50px;
+    height: 50px;   
+}
+.facebook img{
+    width: 50px;
+    height: 50px;   
+}
+.centered-heading{
+    letter-spacing : 5px;
+}
